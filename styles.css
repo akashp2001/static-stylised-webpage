@@ -1,0 +1,316 @@
+.nav-alignment{
+  padding: 0 30% 0 0;
+}
+.navbar-brand{
+  padding: 0 0 0 20%;
+  font-weight: bold;
+}
+.nav-item{
+  padding-right: 3%;
+  font-weight: 500;
+}
+.item1{
+  background-image: url("images/car1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.item2{
+  background-image: url("images/car2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.item3{
+  background-image: url("images/car3.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.item4{
+  background-image: url("images/car4.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.most{
+  width: auto;
+  height: 600px;
+}
+.caritem{
+  width: 400px;
+  position: relative;
+  top: 20%;
+  left: 20%;
+}
+.cartext{
+  color: white;
+  font-size: 32px;
+  font-weight: 500;
+}
+.carpara{
+  color: white;
+}
+.btn:hover{
+  background-color: #50CB93;
+}
+.btn:focus{
+  background-color: #50CB93;
+}
+.navbar{
+  position: relative;
+  bottom: 600px;
+}
+.nav-link{
+  color:white;
+}
+.navbar-brand{
+  color:white;
+}
+.nav-link:hover{
+  color:yellow;
+}
+.navbar-brand:hover{
+  color:yellow;
+}
+.secondsection{
+  text-align: center;
+}
+.grid1{
+  padding: 30px 0 0 0;
+  text-align: left;
+  position: relative;
+  left: 300px;
+}
+.astronomy{
+  position: relative;
+  left: 420px;
+  padding-top: 50px;
+}
+.cardbtn{
+  background-color: #B5EAEA;
+  color: black;
+}
+.cardbtn:hover{
+  background-color: #50CB93;
+  color: white
+}
+hr{
+  width: 60%;
+  height: 20px;
+}
+.card{
+  text-align:center;
+}
+.background{
+   background-color: #548CA8;
+}
+.projects{
+  position: relative;
+  right: 15px;
+}
+.projecttext{
+  padding: 2% 0 2% 0;
+  text-align: center;
+}
+.card-img-top-ak {
+    width: 100%;
+    height: 20vw;
+    object-fit: cover;
+}
+.card{
+  border: none;
+}
+.subsample{
+  position: relative;
+  left: 440px;
+}
+.pricing1{
+  border-right: 0.3px grey solid;
+}
+.priceheading{
+  padding: 3% 0 2% 0;
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+}
+.card-title{
+  font-weight: 600;
+}
+.p2{
+  position: relative;
+  right: 50px;
+}
+.p3{
+  position: relative;
+  right: 80px;
+}
+.video{
+  width: auto;
+  height: 600px;
+  background-color: #548CA8;
+  text-align: center;
+}
+.v1{
+  padding: 100px 0 0 0;
+}
+.video1{
+  margin-right: 30px;
+}
+.img1{
+  background-image: url("images/animal1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.img2{
+  background-image: url("images/animal2.jpg");
+  background-repeat: no-repeat;
+  /* background-position: center; */
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.img3{
+  background-image: url("images/animal3.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.img4{
+  background-image: url("images/animal4.jpg");
+  background-repeat: no-repeat;
+  /* background-position: center; */
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.img5{
+  background-image: url("images/animal5.jpg");
+  background-repeat: no-repeat;
+  /* background-position: center; */
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.img6{
+  background-image: url("images/animal6.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.innerimg{
+  visibility: hidden;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  padding-top: 70px;
+}
+.nik{
+  background-color: #548CA8;
+  background-color: rgba(84, 140, 168, 0.7);
+}
+
+.sixImage{
+  text-align: center;
+  position: relative;
+  left: 200px;
+  padding: 50px 0 50px 0 ;
+}
+.heading1{
+  padding: 0 350px 30px 0;
+  font-weight: bold;
+}
+.belowtext{
+  padding: 10px 70px 0 0;
+}
+.groupedit{
+  width: 700px;
+  height: 500px;
+  padding: 40px 0 40px 0;
+}
+.life{
+  text-align: center;
+  background-color: #EDF6E5;
+}
+.lifeh1{
+  padding: 40px 0 0 0;
+  font-weight: bold;
+}
+.anicar{
+  width: 100px;
+  height: 100px;
+}
+.fontwt{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.newsletter{
+  background-image: url("images/newsbg.jpg");
+  width: auto;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+.newsform{
+  width: 400px;
+}
+.form-inline{
+  position: relative;
+  left: 500px;
+  top: 40px;
+}
+.newsh1{
+  padding: 80px 0 0 0;
+  color: white;
+  font-size: 3rem;
+  font-weight: bold;
+}
+.blogimg{
+  width: auto;
+  height: 200px;
+}
+.blogh1{
+  padding: 0 0 40px 300px;
+}
+.contactimg{
+  width: auto;
+  height: 600px;
+}
+.contactform{
+  background-color: #548CA8;
+}
+.contactsec{
+  padding: 50px 0 50px 0;
+}
+.contacthead{
+  padding: 40px 0 10px 0;
+  font-weight: bold;
+}
+.labelclass{
+  font-weight: 500;
+}
+.footersec{
+  text-align: center;
+  position: relative;
+  left: 180px;
+  padding: 100px 0 30px 0;
+}
+.fontfooter{
+  font-weight: 600;
+  padding-bottom: 20px;
+}
